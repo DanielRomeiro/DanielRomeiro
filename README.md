@@ -2,8 +2,6 @@
 
  Eu sou Daniel Romeiro 
 
- <img align="rigth" src="https://www.flaticon.com/free-icon/octopus_7682337"/>
-
  Iniciante em programação
 
  Com o objetivo de me tornar um programador full-stack. 
