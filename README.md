@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! 👋🏼
 
-<!--
-**DanielRomeiro/DanielRomeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Eu sou Daniel Romeiro 
 
-Here are some ideas to get you started:
+ <img align="rigth" src="https://www.flaticon.com/free-icon/octopus_7682337"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Iniciante em programação
+
+ Com o objetivo de me tornar um programador full-stack. 
+ 
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRomeiro&show_icons=true&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=tokyonight"/>
+</div>
